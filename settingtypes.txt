@@ -1,0 +1,2 @@
+#    Directory to load data from
+formspec_editor.directory (Directory) filepath
